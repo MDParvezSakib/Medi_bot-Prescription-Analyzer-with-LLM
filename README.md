@@ -36,14 +36,9 @@ Medi-bot is an AI-powered intelligent prescription reader that helps users under
 ## 🖼️ User Interface Preview
 
 ### 🔹 Prescription Upload Interface
-![Prescription Upload UI](images/ui_upload.png)
+<img width="1787" height="947" alt="Image" src="https://github.com/user-attachments/assets/d78f8484-71ef-449c-b2fd-c6f207543cc5" />
 
-### 🔹 Generated Medicine Description Output
-![Generated Output UI](images/ui_output.png)
 
-> 📁 **Note:** Place your screenshots inside an `images/` folder and rename them as:
-> - `ui_upload.png`
-> - `ui_output.png`
 
 ---
 
